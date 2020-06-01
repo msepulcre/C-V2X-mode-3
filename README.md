@@ -1,10 +1,8 @@
-# Distance-Based Mode 3 Scheduling Scheme for C-V2X Communications
+# Analytical performance model of LTE-V2X Mode 3 scheduling based on adaptive spatial reuse of radio resources
 This code implements in Matlab the analytical models of the communication performance of C-V2X or LTE-V Mode 3 described in the following paper:
 
-Paper title: *Distance-Based Mode 3 Scheduling Scheme for C-V2X Communications*  
+Paper title: *LTE-V2X Mode 3 scheduling based on adaptive spatial reuse of radio resources*  
 Paper authors: *Daniel Sempere-García, Miguel Sepulcre and Javier Gozalvez*  
-Paper abstract:  
-*The 3GPP specified for the first time in Release 14 the support for V2X (Vehicle to Everything) communications. This LTE evolution is known as C-V2X, Cellular V2X, or LTE-V, and enables the direct V2V communications through the so-called PC5 interface or sidelink. For the management of the radio resources of the PC5 interface, the 3GPP standards define two operation modes: Mode 3 (centralized) and Mode 4 (distributed). This paper focuses on Mode 3, which exploits the knowledge of the cellular infrastructure to minimize the negative effect of the interferences and improve the V2X communications performance. However, the 3GPP standards do not define any concrete scheduling solution for Mode 3. Recent studies have proposed centralized scheduling schemes for Mode 3, mostly based on the geographical position of vehicles, but most of them make use of static parameters and assumptions that limit their scalability and flexibility. This paper proposes a novel centralized C-V2X Mode 3 scheduling scheme that is designed to homogeneously distribute the interfering vehicles. The performance of the proposed scheme has been evaluated by simulations and validated against an analytical performance model proposed in this paper. The results obtained demonstrate that it can provide higher performance than existing scheduling schemes, including C-V2X Mode 4. The evaluations conducted in this paper also demonstrate the flexibility and scalability of the proposed scheduling scheme.* 
 
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this code references the above-mentioned publication.
 
