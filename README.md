@@ -1,8 +1,7 @@
 # Analytical performance model of LTE-V2X Mode 3 scheduling based on adaptive spatial reuse of radio resources
 This code implements in Matlab the analytical models of the communication performance of C-V2X or LTE-V Mode 3 described in the following paper:
 
-Paper title: *LTE-V2X Mode 3 scheduling based on adaptive spatial reuse of radio resources*  
-Paper authors: *Daniel Sempere-García, Miguel Sepulcre and Javier Gozalvez*  
+> Daniel Sempere-García, Miguel Sepulcre and Javier Gozalvez, "[LTE-V2X Mode 3 scheduling based on adaptive spatial reuse of radio resources](https://doi.org/10.1016/j.adhoc.2020.102351)", Ad Hoc Networks, Available online 27 October 2020. DOI: 10.1016/j.adhoc.2020.102351 
 
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this code references the above-mentioned publication.
 
